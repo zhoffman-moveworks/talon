@@ -1,4 +1,4 @@
-talon
+talon v2
 =====
 
 Mailgun library to extract message quotations and signatures.
